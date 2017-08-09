@@ -1,4 +1,4 @@
 # DevOps
 Trabalhos de DevOps
-# aluno: Gabriel CHaves
-# ra: 1700727
+# Aluno: Gabriel Chaves
+# RA: 1700727
